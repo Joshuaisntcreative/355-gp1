@@ -124,3 +124,11 @@ body{
     line-height:30px;
     letter-spacing:1.2px;
 }
+
+.recommendation{
+    font-family:'Poppins';
+    background-color:#161a20;
+    color:white;
+    border-radius:1px;
+    padding:5em 2em;
+}
